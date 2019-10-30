@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="81d53b55-1813-4d68-86f9-52f2f7bb0232" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/BaseKonwledge/00_test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseKonwledge/01_state_setState.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseKonwledge/02_props.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseKonwledge/03_props.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseKonwledge/05_eventListeners.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Xiaojiejie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XiaojiejieItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +20,8 @@
       <file leaf-file-name="04_render.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+            <state relative-caret-position="324">
+              <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
               <folding>
                 <element signature="e#537#777#0" />
                 <element signature="e#221#274#0" />
@@ -177,7 +168,7 @@
       <workItem from="1572226631026" duration="5240000" />
       <workItem from="1572249821133" duration="596000" />
       <workItem from="1572310513948" duration="599000" />
-      <workItem from="1572397506830" duration="11670000" />
+      <workItem from="1572397506830" duration="11944000" />
     </task>
     <task id="LOCAL-00001" summary="doc: :memo: 文档注释调整">
       <created>1570600134824</created>
@@ -200,17 +191,45 @@
       <option name="project" value="LOCAL" />
       <updated>1570602606825</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: :sparkle: 小姐姐案例">
+      <created>1572417682208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572417682208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: :sparkle: state变量渲染和setState数据修改">
+      <created>1572417741753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572417741753</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: :sparkle: props属性传值">
+      <created>1572417779328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572417779328</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: :sparkle: 事件监听的实现">
+      <created>1572417820923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572417820923</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35351000" />
+    <option name="totallyTimeSpent" value="35625000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="741" y="114" width="1280" height="652" extended-state="0" />
+    <frame x="27" y="53" width="1280" height="652" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08148734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16455697" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -234,7 +253,11 @@
     <MESSAGE value="doc: :memo: 文档注释调整" />
     <MESSAGE value="doc: :memo: 调整资源文件" />
     <MESSAGE value="doc: :memo: 调整资源文件2" />
-    <option name="LAST_COMMIT_MESSAGE" value="doc: :memo: 调整资源文件2" />
+    <MESSAGE value="feat: :sparkle: 小姐姐案例" />
+    <MESSAGE value="feat: :sparkle: state变量渲染和setState数据修改" />
+    <MESSAGE value="feat: :sparkle: props属性传值" />
+    <MESSAGE value="feat: :sparkle: 事件监听的实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: 事件监听的实现" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -598,8 +621,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+        <state relative-caret-position="324">
+          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
           <folding>
             <element signature="e#537#777#0" />
             <element signature="e#221#274#0" />
