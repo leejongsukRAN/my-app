@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81d53b55-1813-4d68-86f9-52f2f7bb0232" name="Default" comment="feat: :sparkle: js面向对象tab栏">
+    <list default="true" id="81d53b55-1813-4d68-86f9-52f2f7bb0232" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/07_利用构造函数创建对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/08_静态成员和实例成员.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,26 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="06_js面向对象tab栏.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html">
+      <file leaf-file-name="07_利用构造函数创建对象.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaScript/07_利用构造函数创建对象.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
-              <folding>
-                <element signature="e#1436#1460#0" />
-                <element signature="e#2015#2046#0" />
-                <element signature="e#1521#1545#0" />
-                <element signature="e#1612#1636#0" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="08_静态成员和实例成员.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaScript/08_静态成员和实例成员.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="424">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -84,6 +78,8 @@
         <option value="$PROJECT_DIR$/src/JavaScript/05_this指向问题.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html" />
+        <option value="$PROJECT_DIR$/src/JavaScript/07_利用构造函数创建对象.html" />
+        <option value="$PROJECT_DIR$/src/JavaScript/08_静态成员和实例成员.html" />
       </list>
     </option>
   </component>
@@ -104,8 +100,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="487" />
-    <option name="y" value="33" />
+    <option name="x" value="441" />
+    <option name="y" value="43" />
     <option name="width" value="1141" />
     <option name="height" value="659" />
   </component>
@@ -192,7 +188,7 @@
       <workItem from="1572249821133" duration="596000" />
       <workItem from="1572310513948" duration="599000" />
       <workItem from="1572397506830" duration="21645000" />
-      <workItem from="1572483746674" duration="20090000" />
+      <workItem from="1572483746674" duration="21677000" />
     </task>
     <task id="LOCAL-00001" summary="doc: :memo: 文档注释调整">
       <created>1570600134824</created>
@@ -327,17 +323,24 @@
       <option name="project" value="LOCAL" />
       <updated>1572494569629</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat: :sparkle: js面向对象tab栏(有切换 添加 修改 删除功能)">
+      <created>1572513005856</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1572513005856</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65416000" />
+    <option name="totallyTimeSpent" value="67003000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="487" y="33" width="1141" height="659" extended-state="0" />
+    <frame x="441" y="43" width="1141" height="659" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1528889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22666667" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -376,7 +379,8 @@
     <MESSAGE value="feat: :sparkle: es6子类继承父类方法同时扩展自己的方法" />
     <MESSAGE value="feat: :sparkle: this指向问题" />
     <MESSAGE value="feat: :sparkle: js面向对象tab栏" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: js面向对象tab栏" />
+    <MESSAGE value="feat: :sparkle: js面向对象tab栏(有切换 添加 修改 删除功能)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: js面向对象tab栏(有切换 添加 修改 删除功能)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -384,16 +388,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Xiaojiejie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -720,6 +714,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding>
+            <element signature="e#164#188#0" />
+            <element signature="e#2005#2051#0" />
+            <element signature="e#1436#1460#0" />
+            <element signature="e#2015#2046#0" />
+            <element signature="e#2761#2787#0" />
+            <element signature="e#1521#1545#0" />
+            <element signature="e#3789#3818#0" />
+            <element signature="e#1612#1636#0" />
+            <element signature="e#5172#5206#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -727,16 +739,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html">
+    <entry file="file://$PROJECT_DIR$/src/JavaScript/07_利用构造函数创建对象.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="153" column="17" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
-          <folding>
-            <element signature="e#1436#1460#0" />
-            <element signature="e#2015#2046#0" />
-            <element signature="e#1521#1545#0" />
-            <element signature="e#1612#1636#0" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaScript/08_静态成员和实例成员.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
