@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d53b55-1813-4d68-86f9-52f2f7bb0232" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaseKonwledge/06_BindirectionalDataBind.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/01_es6创建类和生成实例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/02_es6类中创建共有方法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaScript/03_es6类继承extends和super关键字.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseKonwledge/00_test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseKonwledge/00_Model.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,43 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04_render.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx">
+      <file leaf-file-name="01_es6创建类和生成实例.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaScript/01_es6创建类和生成实例.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-              <folding>
-                <element signature="e#537#777#0" />
-                <element signature="e#221#274#0" />
-                <element signature="e#1103#1156#0" />
-              </folding>
+            <state relative-caret-position="1188">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05_eventListeners.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/05_eventListeners.jsx">
+      <file leaf-file-name="02_es6类中创建共有方法.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaScript/02_es6类中创建共有方法.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="756">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06_BindirectionalDataBind.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/06_BindirectionalDataBind.jsx">
+      <file leaf-file-name="03_es6类继承extends和super关键字.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaScript/03_es6类继承extends和super关键字.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="00_Model.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/00_Model.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="216">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -65,6 +53,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/Xiaojiejie.js" />
         <option value="$PROJECT_DIR$/src/test.js" />
@@ -89,11 +77,15 @@
         <option value="$PROJECT_DIR$/src/test/02_props.jsx" />
         <option value="$PROJECT_DIR$/src/test/03_props.jsx" />
         <option value="$PROJECT_DIR$/src/test/01_state_setState.jsx" />
-        <option value="$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx" />
         <option value="$PROJECT_DIR$/src/BaseKonwledge/05_eventListeners.jsx" />
         <option value="$PROJECT_DIR$/src/BaseKonwledge/00_test.jsx" />
         <option value="$PROJECT_DIR$/src/BaseKonwledge/00_Model.jsx" />
         <option value="$PROJECT_DIR$/src/BaseKonwledge/06_BindirectionalDataBind.jsx" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx" />
+        <option value="$PROJECT_DIR$/src/JavaScript/01_es6创建类和对象.html" />
+        <option value="$PROJECT_DIR$/src/JavaScript/02_es6类中创建共有方法.html" />
+        <option value="$PROJECT_DIR$/src/JavaScript/03_es6类继承extends和super关键字.html" />
       </list>
     </option>
   </component>
@@ -114,10 +106,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="402" />
-    <option name="y" value="58" />
-    <option name="width" value="940" />
-    <option name="height" value="672" />
+    <option name="x" value="282" />
+    <option name="y" value="33" />
+    <option name="width" value="986" />
+    <option name="height" value="623" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -143,6 +135,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="BaseKonwledge" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -151,6 +149,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -158,6 +157,11 @@
     <property name="node.js.selected.package.eslint" value="E:\wzr\baidu\my-app\node_modules\eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wzr\baidu\my-app\src\JavaScript" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,7 +193,8 @@
       <workItem from="1572226631026" duration="5240000" />
       <workItem from="1572249821133" duration="596000" />
       <workItem from="1572310513948" duration="599000" />
-      <workItem from="1572397506830" duration="14366000" />
+      <workItem from="1572397506830" duration="21645000" />
+      <workItem from="1572483746674" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="doc: :memo: 文档注释调整">
       <created>1570600134824</created>
@@ -254,21 +259,40 @@
       <option name="project" value="LOCAL" />
       <updated>1572417892983</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: :sparkle: 模型">
+      <created>1572420417207</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572420417207</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: :sparkle: 实现react对于input的双向数据绑定">
+      <created>1572420447641</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1572420447641</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: :sparkle: 说明">
+      <created>1572421078000</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1572421078001</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38047000" />
+    <option name="totallyTimeSpent" value="45615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="693" y="71" width="940" height="672" extended-state="0" />
-    <editor active="true" />
+    <frame x="478" y="22" width="986" height="652" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24891774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3072165" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Find" weight="0.32945737" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="1" />
       <window_info id="npm" order="0" side_tool="true" />
@@ -276,6 +300,7 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32945737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,36 +319,12 @@
     <MESSAGE value="feat: :sparkle: 事件监听的实现" />
     <MESSAGE value="feat: :sparkle: 条件渲染和数据循环渲染展示" />
     <MESSAGE value="feat: :sparkle: 测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: 测试" />
+    <MESSAGE value="feat: :sparkle: 模型" />
+    <MESSAGE value="feat: :sparkle: 实现react对于input的双向数据绑定" />
+    <MESSAGE value="feat: :sparkle: 说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: 说明" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yarn.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88524">
@@ -369,9 +370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -379,9 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -434,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -444,9 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -489,9 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,9 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,9 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,16 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -615,9 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,25 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-          <folding>
-            <element signature="e#537#777#0" />
-            <element signature="e#221#274#0" />
-            <element signature="e#1103#1156#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/05_eventListeners.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/00_Model.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -661,10 +609,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/06_BindirectionalDataBind.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="612">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/05_eventListeners.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaseKonwledge/04_render.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaScript/01_es6创建类和生成实例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaScript/02_es6类中创建共有方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaScript/03_es6类继承extends和super关键字.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
