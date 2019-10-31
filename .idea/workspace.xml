@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d53b55-1813-4d68-86f9-52f2f7bb0232" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/04_es6子类继承父类方法同时扩展自己的方法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/05_this指向问题.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaScript/03_es6类继承extends和super关键字.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaScript/03_es6类继承extends和super关键字.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,8 +65,8 @@
       <file leaf-file-name="06_js面向对象tab栏.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="82" column="55" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="55" />
+            <state relative-caret-position="215">
+              <caret line="83" column="44" lean-forward="true" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
               <folding>
                 <element signature="e#1183#1232#0" />
               </folding>
@@ -227,7 +224,7 @@
       <workItem from="1572249821133" duration="596000" />
       <workItem from="1572310513948" duration="599000" />
       <workItem from="1572397506830" duration="21645000" />
-      <workItem from="1572483746674" duration="9708000" />
+      <workItem from="1572483746674" duration="9954000" />
     </task>
     <task id="LOCAL-00001" summary="doc: :memo: 文档注释调整">
       <created>1570600134824</created>
@@ -334,17 +331,38 @@
       <option name="project" value="LOCAL" />
       <updated>1572484230278</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat: :sparkle: es6类继承extends和super关键字">
+      <created>1572494497889</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494497889</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: :sparkle: es6子类继承父类方法同时扩展自己的方法">
+      <created>1572494526566</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494526566</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: :sparkle: this指向问题">
+      <created>1572494550817</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494550817</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55034000" />
+    <option name="totallyTimeSpent" value="55280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="500" y="108" width="1002" height="594" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.042596348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11054173" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -380,7 +398,9 @@
     <MESSAGE value="feat: :sparkle: 创建类和生成类实例" />
     <MESSAGE value="feat: :sparkle: es6类中创建共有方法" />
     <MESSAGE value="feat: :sparkle: es6类继承extends和super关键字" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: es6类继承extends和super关键字" />
+    <MESSAGE value="feat: :sparkle: es6子类继承父类方法同时扩展自己的方法" />
+    <MESSAGE value="feat: :sparkle: this指向问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: this指向问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -733,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaScript/06_js面向对象tab栏.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="82" column="55" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="55" />
+        <state relative-caret-position="215">
+          <caret line="83" column="44" lean-forward="true" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
           <folding>
             <element signature="e#1183#1232#0" />
           </folding>
