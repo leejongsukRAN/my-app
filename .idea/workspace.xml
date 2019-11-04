@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d53b55-1813-4d68-86f9-52f2f7bb0232" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/08_静态成员和实例成员.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/09_构造函数原型对象prototype.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/10_原型constructor构造函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/11_call.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/12_借用父构造函数继承属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/13_借用父构造函数继承方法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/14_es6类的本质.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/15_es5中新增的方法(数组方法).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/16_查询商品案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/17_forEach和some区别.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/18_es5中新增的方法(字符串方法).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaScript/19_es5中新增的方法(对象方法).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/面试题/02_作用域和值类型引用类型的传递.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/面试题/03_封装函数进行字符串驼峰命名的转换.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,14 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="16_查询商品案例.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="16_查询商品案例.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaScript/16_查询商品案例.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="63" column="3" lean-forward="true" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-              <folding>
-                <element signature="e#150#166#0" />
-              </folding>
+            <state relative-caret-position="36">
+              <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_作用域和值类型引用类型的传递.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/面试题/02_作用域和值类型引用类型的传递.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_封装函数进行字符串驼峰命名的转换.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/面试题/03_封装函数进行字符串驼峰命名的转换.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -43,8 +48,8 @@
       <file leaf-file-name="17_forEach和some区别.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaScript/17_forEach和some区别.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="540">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -52,7 +57,7 @@
       <file leaf-file-name="18_es5中新增的方法(字符串方法).html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaScript/18_es5中新增的方法(字符串方法).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="468">
               <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
@@ -61,7 +66,7 @@
       <file leaf-file-name="19_es5中新增的方法(对象方法).html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaScript/19_es5中新增的方法(对象方法).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="1008">
               <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
             </state>
           </provider>
@@ -123,6 +128,8 @@
         <option value="$PROJECT_DIR$/src/JavaScript/17_forEach和some区别.html" />
         <option value="$PROJECT_DIR$/src/JavaScript/18_es5中新增的方法(字符串方法).html" />
         <option value="$PROJECT_DIR$/src/JavaScript/19_es5中新增的方法(对象方法).html" />
+        <option value="$PROJECT_DIR$/src/面试题/02_作用域和值类型引用类型的传递.html" />
+        <option value="$PROJECT_DIR$/src/面试题/03_封装函数进行字符串驼峰命名的转换.html" />
       </list>
     </option>
   </component>
@@ -143,10 +150,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="337" />
-    <option name="y" value="5" />
-    <option name="width" value="1001" />
-    <option name="height" value="699" />
+    <option name="x" value="12" />
+    <option name="y" value="14" />
+    <option name="width" value="1374" />
+    <option name="height" value="684" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -170,13 +177,7 @@
               <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BaseKonwledge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="面试题" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/yaxin/hb-iptv" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="E:\wzr\baidu\my-app\node_modules\eslint" />
@@ -197,6 +198,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wzr\baidu\my-app\src\面试题" />
       <recent name="E:\wzr\baidu\my-app\src\JavaScript" />
     </key>
   </component>
@@ -232,7 +234,9 @@
       <workItem from="1572310513948" duration="599000" />
       <workItem from="1572397506830" duration="21645000" />
       <workItem from="1572483746674" duration="22325000" />
-      <workItem from="1572570369409" duration="14814000" />
+      <workItem from="1572570369409" duration="16451000" />
+      <workItem from="1572691069996" duration="596000" />
+      <workItem from="1572830110267" duration="3478000" />
     </task>
     <task id="LOCAL-00001" summary="doc: :memo: 文档注释调整">
       <created>1570600134824</created>
@@ -381,17 +385,101 @@
       <option name="project" value="LOCAL" />
       <updated>1572514357013</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="feat: :sparkle: 静态成员和实例成员">
+      <created>1572597027806</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597027807</updated>
+    </task>
+    <task id="LOCAL-00023" summary="feat: :sparkle: 构造函数原型对象prototype">
+      <created>1572597067586</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597067586</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat: :sparkle: 原型constructor构造函数">
+      <created>1572597099511</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597099511</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat: :sparkle: call">
+      <created>1572597122555</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597122555</updated>
+    </task>
+    <task id="LOCAL-00026" summary="feat: :sparkle: 借用父构造函数继承属性">
+      <created>1572597152001</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597152001</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat: :sparkle: 借用父构造函数继承方法">
+      <created>1572597175729</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597175729</updated>
+    </task>
+    <task id="LOCAL-00028" summary="feat: :sparkle: es6类的本质">
+      <created>1572597197058</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597197058</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat: :sparkle: es5中新增的方法(数组方法)">
+      <created>1572597225382</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597225382</updated>
+    </task>
+    <task id="LOCAL-00030" summary="feat: :sparkle: 查询商品案例">
+      <created>1572597249657</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597249657</updated>
+    </task>
+    <task id="LOCAL-00031" summary="feat: :sparkle: forEach和some区别">
+      <created>1572597279528</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597279528</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat: :sparkle: es5中新增的方法(字符串方法)">
+      <created>1572597310341</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597310341</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat: :sparkle: es5中新增的方法(对象方法)">
+      <created>1572597326846</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1572597326846</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82465000" />
+    <option name="totallyTimeSpent" value="88176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="0" width="830" height="699" extended-state="0" />
+    <frame x="41" y="47" width="1374" height="586" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27395576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08468336" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -412,13 +500,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="doc: :memo: 文档注释调整" />
-    <MESSAGE value="doc: :memo: 调整资源文件" />
-    <MESSAGE value="doc: :memo: 调整资源文件2" />
-    <MESSAGE value="feat: :sparkle: 小姐姐案例" />
-    <MESSAGE value="feat: :sparkle: state变量渲染和setState数据修改" />
-    <MESSAGE value="feat: :sparkle: props属性传值" />
-    <MESSAGE value="feat: :sparkle: 事件监听的实现" />
     <MESSAGE value="feat: :sparkle: 条件渲染和数据循环渲染展示" />
     <MESSAGE value="feat: :sparkle: 测试" />
     <MESSAGE value="feat: :sparkle: 模型" />
@@ -432,7 +513,19 @@
     <MESSAGE value="feat: :sparkle: js面向对象tab栏" />
     <MESSAGE value="feat: :sparkle: js面向对象tab栏(有切换 添加 修改 删除功能)" />
     <MESSAGE value="feat: :sparkle: 利用构造函数创建对象" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: 利用构造函数创建对象" />
+    <MESSAGE value="feat: :sparkle: 静态成员和实例成员" />
+    <MESSAGE value="feat: :sparkle: 构造函数原型对象prototype" />
+    <MESSAGE value="feat: :sparkle: 原型constructor构造函数" />
+    <MESSAGE value="feat: :sparkle: call" />
+    <MESSAGE value="feat: :sparkle: 借用父构造函数继承属性" />
+    <MESSAGE value="feat: :sparkle: 借用父构造函数继承方法" />
+    <MESSAGE value="feat: :sparkle: es6类的本质" />
+    <MESSAGE value="feat: :sparkle: es5中新增的方法(数组方法)" />
+    <MESSAGE value="feat: :sparkle: 查询商品案例" />
+    <MESSAGE value="feat: :sparkle: forEach和some区别" />
+    <MESSAGE value="feat: :sparkle: es5中新增的方法(字符串方法)" />
+    <MESSAGE value="feat: :sparkle: es5中新增的方法(对象方法)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: :sparkle: es5中新增的方法(对象方法)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -440,20 +533,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -759,32 +838,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaScript/17_forEach和some区别.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="540">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaScript/19_es5中新增的方法(对象方法).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="1008">
           <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaScript/18_es5中新增的方法(字符串方法).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="468">
           <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaScript/16_查询商品案例.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="63" column="3" lean-forward="true" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-          <folding>
-            <element signature="e#150#166#0" />
-          </folding>
+        <state relative-caret-position="36">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试题/02_作用域和值类型引用类型的传递.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试题/03_封装函数进行字符串驼峰命名的转换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
         </state>
       </provider>
     </entry>
